@@ -504,6 +504,7 @@ header.modal-header {
     color: #2196F3;
 
 }
+/* Responsive  tablet and mobile */
 @media (max-width: 46.1875em) {
 
     .mobile-buy-ticket {
